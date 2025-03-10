@@ -3,8 +3,8 @@
 - 🌱 Learning & Growing
 Enhancing my skills in MERN stack 🚀
 Exploring smart contracts and decentralized applications (DApps) 🔗
-Preparing for exciting job and internship opportunities in 2025
-- 💞️ I’m looking to collaborate on Projects on Mern Stack and Blockchain
+Preparing for exciting job and internship opportunities in 2026
+- 💞️ I’m looking to collaborate on Projects on Mern Stack.
 - 📫 basharathaider37@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡🧐 Fun Fact: I can spend hours debugging a single line of code but somehow miss a missing semicolon for days! 😆💻

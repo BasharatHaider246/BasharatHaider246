@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BasharatHaider246
-- 👀 I’m interested in 🚀 Aspiring MERN Full-Stack Developer | 🎓 MCA Student | 💡 Passionate about Web Development & Blockchain
+- 👀 I’m interested in 🚀 Aspiring MERN Full-Stack Developer | 🎓 MCA Student | 💡 Passionate about Web Development
 - 🌱 Learning & Growing
 Enhancing my skills in MERN stack 🚀
 Exploring smart contracts and decentralized applications (DApps) 🔗
